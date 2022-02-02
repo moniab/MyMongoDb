@@ -11,7 +11,7 @@ After creating an account on MongoDB Atlas, I could menage it using Python. In p
 
 Then, I created a datalake on MongoDB Atlas and I did some experiments on it trying some query (reachable in the file "Query_datalake.ipynb")
 
-
+It can be very usefull to know query and projection operators of MongoDB, reacheble at the following link: [query and projection operators](https://docs.mongodb.com/manual/reference/operator/query/)
 ### Why Use MongoDB?
 (From the official documentation of MongoDB) 
 MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas.
