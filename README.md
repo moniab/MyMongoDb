@@ -1,2 +1,2 @@
 # MyMongoDb
-Create a database and colleztion on MongoDB through Python
+Create a database and collection on MongoDB through Python
