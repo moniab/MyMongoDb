@@ -8,4 +8,4 @@ After creating an account on MongoDB Atlas, I could menage it using Python. In p
 - update elements of the collections;
 - query the database;
 
-Then, I created a datalake MongoDB Atlas and I did some experiments on it trying some query.
+Then, I created a datalake on MongoDB Atlas and I did some experiments on it trying some query.
