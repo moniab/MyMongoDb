@@ -11,8 +11,8 @@ After creating an account on MongoDB Atlas, I could menage it using Python. In p
 
 Then, I created a datalake on MongoDB Atlas and I did some experiments on it trying some query (reachable in the file "Query_datalake.ipynb")
 
-From the official documentation of MongoDB:
-### Why Use MongoDB?
-MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas.
 
+### Why Use MongoDB?
+(From the official documentation of MongoDB) 
+MongoDB is built on a scale-out architecture that has become popular with developers of all kinds for developing scalable applications with evolving data schemas.
 As a document database, MongoDB makes it easy for developers to store structured or unstructured data. It uses a JSON-like format to store documents. This format directly maps to native objects in most modern programming languages, making it a natural choice for developers, as they don’t need to think about normalizing data. MongoDB can also handle high volume and can scale both vertically or horizontally to accommodate large data loads.
